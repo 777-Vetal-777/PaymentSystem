@@ -5,5 +5,7 @@ public class DeliveryServiceImpl implements DeliverService{
     public void delivery() {
 
         System.out.println("Something newg");
+        System.out.println("Something newg");
+        System.out.println("delivery");
     }
 }
