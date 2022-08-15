@@ -6,6 +6,7 @@ public class Item {
     private double price;
 
     private double field2;
+    private double field3;
 
     public Item(String id, String name, double price) {
         this.id = id;
