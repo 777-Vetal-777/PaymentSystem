@@ -6,5 +6,6 @@ public class Card {
 
         System.out.println("ABC-12345");
         System.out.println("________-------");
+        System.out.println("abc");
     }
 }
