@@ -11,7 +11,7 @@ public class PaymentServiceImpl implements PaymentService{
         if(PaymentType.CARD.equals(payment.getType())){
 
         }else if(PaymentType.BITCOIN.equals(payment.getType())){
-
+            System.out.println("Something went wrong");
         }
 
     }
