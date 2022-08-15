@@ -5,6 +5,10 @@ public class Item {
     private String name;
     private double price;
 
+    private double field2;
+    private double field3;
+    private double field4;
+
     public Item(String id, String name, double price) {
         this.id = id;
         this.name = name;
