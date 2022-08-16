@@ -11,5 +11,6 @@ public class Card {
         System.out.println("abc");
         System.out.println("master");
         System.out.println("ABC-1234");
+        System.out.println("2");
     }
 }
