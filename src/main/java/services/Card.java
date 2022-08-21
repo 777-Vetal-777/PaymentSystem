@@ -16,5 +16,9 @@ public class Card {
 
         System.out.println("ABC-2");
 
+        System.out.println("ABC-1");
+
+
+        System.out.println("ABC-1(1)");
     }
 }
