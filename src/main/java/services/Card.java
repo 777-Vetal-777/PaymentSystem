@@ -20,5 +20,6 @@ public class Card {
 
 
         System.out.println("ABC-1(1)");
+        System.out.println("new");
     }
 }
